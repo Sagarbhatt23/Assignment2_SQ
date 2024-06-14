@@ -1,5 +1,35 @@
 ﻿<Properties StartupConfiguration="{DF70DDCE-F629-48F4-8D62-724BEF6958F9}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Assignment2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Assignment2.NUnitTest FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Assignment2.NUnitTest/ProductTest.cs">
+    <Files>
+      <File FileName="Program.cs" Line="10" Column="1" />
+      <File FileName="Product.cs" Line="2" Column="19" />
+      <File FileName="../Assignment2.NUnitTest/UnitTest1.cs" Line="22" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assignment2" expanded="True">
+            <Node name="Assignment2.NUnitTest">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="ProductTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Assignment2">
+            <Node name="Assignment2.NUnitTest" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assignment2 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
