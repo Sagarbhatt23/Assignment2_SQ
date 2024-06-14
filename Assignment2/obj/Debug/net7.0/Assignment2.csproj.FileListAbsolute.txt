@@ -3,3 +3,13 @@
 /Users/sagar/Conestoga College/Computer Applications Development/Semester 2/Software Quality/Assignment 2/Assignment2_SQ/Assignment2/obj/Debug/net7.0/Assignment2.AssemblyInfoInputs.cache
 /Users/sagar/Conestoga College/Computer Applications Development/Semester 2/Software Quality/Assignment 2/Assignment2_SQ/Assignment2/obj/Debug/net7.0/Assignment2.AssemblyInfo.cs
 /Users/sagar/Conestoga College/Computer Applications Development/Semester 2/Software Quality/Assignment 2/Assignment2_SQ/Assignment2/obj/Debug/net7.0/Assignment2.csproj.CoreCompileInputs.cache
+/Users/sagar/Conestoga College/Computer Applications Development/Semester 2/Software Quality/Assignment 2/Assignment2_SQ/Assignment2/bin/Debug/net7.0/Assignment2
+/Users/sagar/Conestoga College/Computer Applications Development/Semester 2/Software Quality/Assignment 2/Assignment2_SQ/Assignment2/bin/Debug/net7.0/Assignment2.deps.json
+/Users/sagar/Conestoga College/Computer Applications Development/Semester 2/Software Quality/Assignment 2/Assignment2_SQ/Assignment2/bin/Debug/net7.0/Assignment2.runtimeconfig.json
+/Users/sagar/Conestoga College/Computer Applications Development/Semester 2/Software Quality/Assignment 2/Assignment2_SQ/Assignment2/bin/Debug/net7.0/Assignment2.dll
+/Users/sagar/Conestoga College/Computer Applications Development/Semester 2/Software Quality/Assignment 2/Assignment2_SQ/Assignment2/bin/Debug/net7.0/Assignment2.pdb
+/Users/sagar/Conestoga College/Computer Applications Development/Semester 2/Software Quality/Assignment 2/Assignment2_SQ/Assignment2/obj/Debug/net7.0/Assignment2.dll
+/Users/sagar/Conestoga College/Computer Applications Development/Semester 2/Software Quality/Assignment 2/Assignment2_SQ/Assignment2/obj/Debug/net7.0/refint/Assignment2.dll
+/Users/sagar/Conestoga College/Computer Applications Development/Semester 2/Software Quality/Assignment 2/Assignment2_SQ/Assignment2/obj/Debug/net7.0/Assignment2.pdb
+/Users/sagar/Conestoga College/Computer Applications Development/Semester 2/Software Quality/Assignment 2/Assignment2_SQ/Assignment2/obj/Debug/net7.0/Assignment2.genruntimeconfig.cache
+/Users/sagar/Conestoga College/Computer Applications Development/Semester 2/Software Quality/Assignment 2/Assignment2_SQ/Assignment2/obj/Debug/net7.0/ref/Assignment2.dll
