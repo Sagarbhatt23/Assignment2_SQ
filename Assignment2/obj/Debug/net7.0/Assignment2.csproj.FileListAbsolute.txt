@@ -1,0 +1,5 @@
+/Users/sagar/Conestoga College/Computer Applications Development/Semester 2/Software Quality/Assignment 2/Assignment2_SQ/Assignment2/obj/Debug/net7.0/Assignment2.csproj.AssemblyReference.cache
+/Users/sagar/Conestoga College/Computer Applications Development/Semester 2/Software Quality/Assignment 2/Assignment2_SQ/Assignment2/obj/Debug/net7.0/Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sagar/Conestoga College/Computer Applications Development/Semester 2/Software Quality/Assignment 2/Assignment2_SQ/Assignment2/obj/Debug/net7.0/Assignment2.AssemblyInfoInputs.cache
+/Users/sagar/Conestoga College/Computer Applications Development/Semester 2/Software Quality/Assignment 2/Assignment2_SQ/Assignment2/obj/Debug/net7.0/Assignment2.AssemblyInfo.cs
+/Users/sagar/Conestoga College/Computer Applications Development/Semester 2/Software Quality/Assignment 2/Assignment2_SQ/Assignment2/obj/Debug/net7.0/Assignment2.csproj.CoreCompileInputs.cache

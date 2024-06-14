@@ -1,4 +1,5 @@
 ﻿<Properties StartupConfiguration="{DF70DDCE-F629-48F4-8D62-724BEF6958F9}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Assignment2 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Assignment2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Assignment2.NUnitTest FirstBuild="True" />
 </Properties>
